@@ -10,9 +10,10 @@ This required jquery to run!!
 
 https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js is the version the Plugin was build on.
 
-Usage in <script>
+Usage in \<script\>
 ========
 For a full list of options including passing custom CSS see (customAlertCode.js)
+```javascript
 $(function()
 {   
     //ID of Element being Clicked
@@ -32,10 +33,12 @@ $(function()
           });
           
 }
+```
 Usage in html
 ========
-
+```html
 <body>
 	<input id="DialogBox" type='button' value="PopUp" />
   <input id="alert" type='button' value="Alert" />
 </body>
+```
