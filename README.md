@@ -12,7 +12,7 @@ https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js is the version 
 
 Usage in \<script\>
 ========
-For a full list of options including passing custom CSS see <a href='https://github.com/bmmage/customAlert/README.md#full-options'>This</a>.
+For a full list of options including passing custom CSS see <a href='https://github.com/bmmage/customAlert/blob/master/README.md#full-options'>This</a>.
 ```javascript
 $(function()
 {   
